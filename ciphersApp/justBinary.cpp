@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "./ciphers/binaryCipher.h"
+#include "./ciphers/binaryCipher.hpp"
 
 using namespace std;
 
