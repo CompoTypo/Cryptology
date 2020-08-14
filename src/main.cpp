@@ -2,11 +2,11 @@
 #include <vector>
 #include <string>
 
-#include "./ciphers/affineCipher.hpp"
-#include "./ciphers/atbashCipher.hpp"
-#include "./ciphers/ceaserCipher.hpp"
-#include "./ciphers/binaryCipher.hpp"
-#include "./ciphers/vigenereCipher.hpp"
+#include "./ciphers/AffineCipher.hpp"
+#include "./ciphers/AtbashCipher.hpp"
+#include "./ciphers/CeaserCipher.hpp"
+#include "./ciphers/BinaryCipher.hpp"
+#include "./ciphers/VigenereCipher.hpp"
 
 int main()
 {
