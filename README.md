@@ -6,9 +6,9 @@ A small console app to use various implemented ciphers and data conversions.
 ![Ciphers Test Gif](./CiphersApp.gif)
 
 ### AFFINE CIPHER
-Affine cipher takes a prime and a greater base 2 number and use it 
+Affine cipher takes a prime and a greater base 2 number and use it  
 Affine cipher algoritm: E ( x ) = ( a x + b ) mod m  
-`Needs to be made static`
+`Needs to be made static`  
 
 ### ATBASH CIPHER
 Flips the values along the range of the alphabet
