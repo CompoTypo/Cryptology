@@ -5,7 +5,7 @@
 
 class VigenereCipher {
     public:
-        std::string encode(std::string input) {
+        static std::string encode(std::string input) {
             std::string output = "";
             for (int i = 0; i < input.length(); i++) {
                 /* code */
@@ -13,7 +13,7 @@ class VigenereCipher {
             return output;
         }
 
-        std::string decode(std::string input) {
+        static std::string decode(std::string input) {
             std::string output = "";
             for (int i = 0; i < input.length(); i++) {
                 /* code */
